@@ -1,0 +1,41 @@
+.card{
+  height: 250px;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  background-size: cover;
+  color: white;
+  position: relative;
+  border-radius: 5px;
+  position: relative;
+  margin:10px auto;
+}
+
+.card-category{
+  position: absolute;
+  top:10px;
+  left:10px;
+  color: white;
+  font-size:25px;
+}
+
+.card-description{
+  position: absolute;
+  color:white;
+  bottom:2px;
+}
+
+h1{
+  font-size: 25px;
+}
+
+p {
+  font-size: 15px;
+}
+
+.card-avatar {
+  position: absolute;
+  right: 5px;
+  top:10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}

@@ -74,14 +74,14 @@
   position: relative;
 }
 .navbar-wagon-search-btn {
-  line-height: 40px;
-  color: #E6E6E6;
-  border: none;
-  background: transparent;
-  position: absolute;
-  right: 14px;
-  top: -2px;
-  z-index: 1;
+    line-height: 40px;
+    color: #E6E6E6;
+    border: none;
+    background: transparent;
+    position: absolute;
+    right: -12px;
+    top: 1px;
+    z-index: 1;
 }
 .navbar-wagon-search-input {
   flex: 0 1 300px;
